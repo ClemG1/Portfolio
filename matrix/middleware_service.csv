@@ -1,0 +1,18 @@
+Compétence Visée;Compétences Acquises;Méthode d'apprentissage;Niveau
+Middleware and Service Traning Unit;;;;
+Service Oriented Architecture;;;;
+Know how to define a Service Oriented Architecture;+ Concevoir et definir une API REST|+ Découper une complexe application en microservice avec fort découplage|+ Capable de faire des choix stratégiques en termes d'architecture en fonction du problème posé (SOAP ou REST);Formation Initiale;4;
+Deploy an SOA with web services;+ Capable de déployer une application avec web service utilisant Spring Boot ou NodeJs|+ Capable de déployer un réseau de machine virtuelle pour héberger les différents composant de l'application|+ Utilisation d'outil tel que Maven pour déployer une SOA appliclation;Formation Initiale;4;
+Deploy and configure an SOA using SOAP;+ Capable de configurer une simple SOAP application utilisant une des deux approches étudiées : bottom-up ou top-down;Formation Initiale;3;
+Deploy and configure an SOA using REST;+ Capable de définir les différents services de l'API REST|+ Capable de choisir de façon logique les URI d'accès aux différents services.|+ Création d'API REST générale (utilisation de JSON) grâce à l'outil Spring Boot;Formation Initiale;4;
+Integrate a process manager in an SOA;+ Capable de créer une fonction de management qui se répète dans le temps utilisant les services de l'API REST sur Spring BOOT.;Formation Initiale;4;
+Middleware for the Internet of Things;;;;
+Know how to situate the main standards for the Internet of Things;+ Comprend la différence entre différent standard de l'IoT (MQTT, oneM2M)|+ Capable de choisir le standard le plus approprié basé sur le problème et le domaine d'application.;Formation Initiale;4;
+Deploy an architecture compliant to an IoT standard and implement a sensor network;+ Déploiement d'une architecture utilisant MQTT|+ Mise en place du Broker et définition des différents topics|+ Création d'une application de management qui intéragit avec le Broker|+ Développement d'une application capable d'intéragir avec des équipements physiques (ici une lampe) en fonction de ses subscriptions sur le Broker;Formation Initiale;4;
+Deploy and configure and IoT architecture using OM2M;+ Création de l'arbre oneM2M dans un réseau à plusieurs capteurs utilisant AE et CSE sur les noeuds IN et MN|+ Publication automatique de données via une POA vers une application web;Formation Initiale;4;
+Interact with the different resources of the architecture using REST services;+ Capable d'intéragir avec les ressources directement via REST request (GET, POST, PUT, DELETE)|+ Developpement d'API REST capable d'intéragir avec une architecture oneM2M;Formation Initiale;4;
+Integrate a new technology into the deployed architecture;+ Ajout d'un réseau de capteur utilisant MQTT en parallèle d'un réseau oneM2M grâce à une API REST généralisé ne reposant pas sur la technologie utilisée;Formation Initiale;3;
+Adaptability: Cloud and Autonomic Computing;;;;
+Understand the concept of cloud computing;+ Capable de choisir la solution cloud la plus adapté à mes besoins|+ Capable de choisir entre un déployement sur machine virtuelle ou container;Pratique Professionnelle;4;
+Use a IaaS-type cloud service;+ Déployement d'un IaaS-type cloud au sein d'une entreprise avec allocation des ressources en fonction des besoins|+ Gestion et déployement de différente machine virtuelle au sein d'un réseau complexe;Pratique Professionnelle;4;
+Deploy and adapt a cloud-based platform for IoT;+ Déployement d'une application web dans le cloud intéragissant avec The Things Network|+ Definition des paquets de communication et gestion de base de données NoSQL dans le cloud|+ Déploiement de la data base dans le cloud sur des serveurs AWS;Formation Initiale;4;

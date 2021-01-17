@@ -1,0 +1,14 @@
+Compétence Visée;Compétences Acquises;Méthode d'apprentissage;Niveau
+Analysis and data processing, business applications;;;;
+Software Engineering;;;;
+Define the different phases in software development;+ Capable de définir les différents phases de développement logiciel tels que Conception, Développement, Test et Intégration;Formation Initiale;4;
+Know the different project management methods;+ Etude de deux méthodes de management de projet : Waterfall et Agile;Formation Initiale;4;
+Apply one of these methods a project;+ Application de la méthode agile à plusieurs projets cette année;Formation Initiale;4;
+Processing Semantic Data;;;;
+Design and understand a model for an application;+ Capable de définir des classes et propriétés à partir de phrase ou d'un cahier des charges dans le cadre d'une ontologie légère ou lourde;Formation Initiale;4;
+Know how to infer new knowlegde from a knowledge base;+ Capable d'ajouter de la connaissance en l'ontologie en utilisant un raisonneur.;Formation Initiale;4;
+Be able to enrich data with semantic meta-data;+ Capable d'ajouter de la connaissance à une ontologie en utilisant protégé|+ Capable d'intéragir et d'enrichir l'ontologie à l'aide d'une application web développé en Java;Formation Initiale;3;
+Data Processing and Analysis: Big Data;;;;
+Know how to explore and represent data sets;+ Capable d'extraire tout type d'information à partir d'un dataset|+ Capable de traiter des informations extraites de dataset|+ Capable de créer un dataset à partir d'un code R;Formation Initiale;4;
+Master R;+ Capable d'écrire un code clair et structuré en R|+ Capable de travailler avec différent data structure en R|+ Maitrise de certaine librairie permettant d'afficher des graphiques comme ggplot2;Formation Initiale;3;
+Master complexity associated to statistical data processing and know the techniques to be used to minimise them;+ Capable d'apporter un niveau d'optomisation sur les algorithmes écrit;Formation Initiale;2;

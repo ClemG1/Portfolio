@@ -1,0 +1,330 @@
+#default_style
+{
+    font-size: 12px;
+    font-family: Helvetica, Arial, sans-seri, Verdana, Geneva;
+    width: 100%;
+}
+
+#header
+{
+    text-align: center;
+    position: relative;
+}
+
+#header img
+{
+    width: 100%;
+    height: 150px;
+    z-index: 1;
+}
+
+#header .menu
+{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    z-index: 2;
+}
+
+#header .menu table
+{
+    width: 100%;
+}
+
+#header .menu table tbody tr td
+{
+    font-size: 16px;
+    padding: 2px;
+    border-radius: 3px;
+}
+
+#header .menu table tbody tr td a
+{
+    color: Black;
+}
+
+#header .menu table tbody tr .empty_menu_cell
+{
+    width: 5%;
+}
+
+#header .menu table tbody tr .menu_item
+{
+    width: 8%;
+    height: 25px;
+    padding: 3px;
+    background-color: White;
+}
+
+#header .menu table tbody tr .inter_menu_cell
+{
+    width: 1%;
+}
+
+#presentation {
+    background-color: white;
+    width: 96%;
+    padding: 2%;
+}
+
+#presentation .personal_info {
+    display: inline-block;
+    vertical-align:top;
+    background-color: #323232;
+    width: 20%;
+}
+
+#presentation .personal_info .profil_picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 50%;
+    width: 75%;
+}
+
+#presentation .personal_info h1 {
+    font-size: 2em;
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-weight: normal;
+}
+
+#presentation .personal_info h2 {
+    font-size: 1.7em;
+    color: white;
+    font-style: italic;
+    text-decoration: underline;
+    font-weight: normal;
+    margin-left: 5%;
+}
+
+#presentation .personal_info li {
+    font-size: 1.3em;
+    color: white;
+    margin-left: 5%;
+}
+
+#presentation .personal_info p {
+    font-size: 1.3em;
+    color: white;
+    margin-left: 5%;
+}
+
+#presentation .personal_info a {
+    font-size: 1.1em;
+    color: white;
+    text-decoration: underline;
+}
+
+#presentation .profesional_info {
+    display: inline-block;
+    vertical-align:top;
+    background-color: white;
+    width: 70%;
+    margin-left: 5%;
+}
+
+#presentation .profesional_info h1 {
+    font-size: 3em;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+#presentation .profesional_info .experience {
+    margin-bottom: 20px;
+}
+
+#presentation .profesional_info .experience .company_logo {
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+}
+
+#presentation .profesional_info .experience .experience_description {
+    display: inline-block;
+    vertical-align: top;
+    width: 65%;
+    margin-left: 3%;
+}
+
+#presentation .profesional_info .experience .experience_description h2 {
+    font-size: 2em;
+    font-style: italic;
+    margin: 0;
+}
+
+#presentation .profesional_info .experience .experience_description p {
+    font-size: 1.5em;
+    margin-top: 0.3em;
+}
+
+#presentation .profesional_info .experience .experience_description li {
+    font-size: 1.5em;
+    margin-top: 0.3em;
+}
+
+#experience_menu {
+    background-color: white;
+    width: 96%;
+    padding: 2%;
+}
+
+#experience_menu .experience_menu_element {
+    display: inline-block;
+    width: 45%;
+    margin: 2%;
+    text-align: center;
+}
+
+#experience_menu .experience_menu_element img {
+    width: 75%;
+}
+#experience_menu .experience_menu_element h1 {
+    font-size: 2em;
+}
+
+#experience_menu .experience_menu_element h2 {
+    font-size: 1.75em;
+    font-weight: normal;
+}
+
+#experience_menu .experience_menu_element h3 {
+    font-size: 1.5em;
+    font-weight: normal;
+}
+
+#experience_description {
+    background-color: white;
+    width: 96%;
+    padding: 2%;
+    text-align: justify;
+}
+
+#experience_description p {
+    display: inline-block;
+    font-size: 1.5em;
+    width: 65%;
+}
+
+#experience_description img {
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+    margin: 2%;
+}
+
+#technic {
+    background-color: white;
+    width: 96%;
+    padding: 2%;
+    text-align: justify;
+}
+
+#technic .technic_text {
+    display: inline-block;
+    width: 65%;
+}
+
+#technic .technic_text h1 {
+    font-size: 2em;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+#technic .technic_text p {
+    font-size: 1.5em;
+}
+
+#technic .technic_text a {
+    font-size: 1.5em;
+    color: blue;
+}
+
+#technic .technic_text li {
+    font-size: 1.5em;
+}
+
+#technic img {
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+    margin: 2%;
+}
+
+#matrix_section {
+    background-color: white;
+    width: 96%;
+    padding: 2%;
+    text-align: justify;
+    font-size: 1.5em;
+}
+
+#matrix_section button {
+    text-align: center;
+    font-size: 1em;
+    margin-bottom: 20px;
+}
+
+#matrix_section .matrix {
+    border-collapse: collapse;   
+}
+
+#matrix_section .matrix .title {
+    width: 25%;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid black;
+    text-decoration: underline;
+}
+
+#matrix_section .matrix .skill {
+    width: 25%;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+#matrix_section .matrix .experience {
+    width: 50%;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+#matrix_section .matrix .mark {
+    width: 10%;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+#footer {
+    width: 100%;
+    height: 150px;
+    background-color: #323232;
+}
+
+#footer .footer_element {
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    margin: 10px;
+    padding: 5px;
+    width: 30%;
+}
+
+#footer .footer_element h1 {
+    font-size: 1.5em;
+    color: white;
+    font-style: italic;
+    font-weight: normal;
+}
+
+#footer .footer_element a {
+    font-size: 1.1em;
+    color: white;
+    text-decoration: underline;
+}

@@ -1,0 +1,13 @@
+Compétence Visée;Compétences Acquises;Méthode d'apprentissage;Niveau
+Smart devices;;;;
+Introduction to Sensors;;;;
+Understand basic notions of sensors, data acquisition: physics, electronics and metrology point of view;+ Comprend les principes de base du fonctionnement de capteur au niveau electronique et physique;Formation Initiale;3
+Be able to manufacture a nano-particles sensor using micro-electronics tools: chemical synthesis, assembly, testing;+ Capable de suivre le protocole de manufacturisation d'un capteur à nano particule en ajoutant des optimisations à certaine étape|+ Comprend et agis sur les enjeux écologiques derrière la manipulation de nano particule et la manufacturisation d'un capteur de manière plus générale;Formation Initiale;2;
+Be able to design the datasheet of the sensor manufactured;+ Capable de dimensionner le produit manufacturer à partir de test et de créer une datasheet basé sur ces relevés;Formation Initiale;3;
+Microcontrollers and Open Source Hardware;;;;
+Understand microcontroller archictecture and how to use them;+ Comprend et utilise les différents composants de l'architecture d'un microcontroller : I/O Ports, PWM, UART, Interrupt...;Formation Initiale;3;
+Be able to design data acquisition system (sensor, conditioner, microcontroller) with respect to the application;+ Capable de choisir les composants nécessaire à la création d'un système d'acquisition parmis un ensemble de composant (capteur, microcontrolleur...) donné;Formation Initiale;2;
+Be able to design the electronic circuit of a sensor’s signal conditioner (design + simulation);+ Capable de comprendre et lire le circuit électronique de traitement du signal d'un capteur;Formation Initiale;1;
+Be able to design a shield to accommodate the gas sensor;+ Capable de comprendre et lire la conception d'un bouclier pour le capteur de gaz;Formation Initiale;1;
+Be abe to design the sofware to use the gas sensor and its HMI;+ Capable de concevoir une application web de type SOA qui utilisera les fonctionnalités du capteur|+ Capable de choisir et concevoir la technologie de communication qui permettra à l'application de communiquer avec le capteur|+Capable de définir les trames d'information qui vont circuler entre le capteur et l'application web;Formation Initiale;4;
+Be able to combine all of the above mentioned components into a smart device;+ Capable d'assembler et tester tout les composants en s'assurant d'une bonne communication tout au long de la chaîne d'acquisition et traitement de données;Formation Initiale;3;
